@@ -54,5 +54,11 @@ Keep in mind that any of the below Linux distributions can be a stable server an
 
 ## Linux installation
 
-### install Debian 11 on vmware
-This module is a step by step demonstration of an actual installation of  Debian 11.
+### install Debian 11
+https://www.debian.org
+
+### install Ubuntu 22.04
+https://releases.ubuntu.com
+
+### install Fedora 37
+https://getfedora.org
